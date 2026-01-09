@@ -55,7 +55,7 @@ I love turning ideas into apps that users enjoy and making code clean, organized
 
  
 ```dart
-class MohamedGhynm extends FlutterDeveloper {
+class MohamedElMohamedy extends FlutterDeveloper {
   final String role = "Senior Flutter Developer";
   final int experienceYears = 5;
 
@@ -81,7 +81,7 @@ class MohamedGhynm extends FlutterDeveloper {
 - 🌱 Learning: Advanced Flutter internals, state management patterns, AI-assisted development
 - 👯 Looking to collaborate on: Open-source Flutter & Mobile projects
 - 💬 Ask me about: Flutter, Dart, App Architecture, Android Studio, VS Code
-- 📫 Reach me at: your_email@example.com
+- 📫 Reach me at: mo0hamedghynm@gmail.com
 - ⚡ Fun fact: I enjoy turning complex problems into elegant code solutions!
 
 ---
@@ -124,18 +124,21 @@ class MohamedGhynm extends FlutterDeveloper {
 
 ### Connect with me:
 
-<p align="center">
+p align="center">
+  <a href="mailto:mo0hamedghynm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohamed-elmohamedy-717101162">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40"/>
-  </a>
-  <a href="mailto:mo0hamedghynm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
+  &nbsp;&nbsp;
+  <a href="https://cutt.ly/1wvpPd2q">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/mohamed.elmohamedy.9279">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40"/>
   </a>
 </p>
 
@@ -166,7 +169,7 @@ Here's **one standout project per category** – all cross-platform (Android/iOS
 |Aqary (عقاري)                | Property marketplace for search, buy/rent, map browsing, listing with photos | Flutter • Dart • Provider • Firebase • Google Maps • FCM | 100+     | [Android](https://play.google.com/store/apps/details?id=com.ivalley.aaqar_one&hl=ar) [iOS](https://apps.apple.com/us/app/aqary-%D8%B9%D9%82%D8%A7%D8%B1%D9%8A/id6736730281) | ![Aqary](https://play-lh.googleusercontent.com/_--nvToduXfiYmOvfpaD52XN-rKxcAsA4r9czMutnz5tGjk8P2jwMgRCcYJN44xEDFA=w240-h480-rw) |
 |Bayoumy - بيومي             | E-commerce for cosmetics & beauty products with cart & secure checkout | Flutter • Dart • GetX • Rest API • Firebase • Google Maps | 1K+      | [Android](https://play.google.com/store/apps/details?id=com.bayoumy) [iOS](https://apps.apple.com/us/app/bayoumi-gallery-%D8%AC%D8%A7%D9%84%D9%8A%D8%B1%D9%8A-%D8%A8%D9%8A%D9%88%D9%85%D9%8A/id6471124378) | ![Bayoumy](http://play-lh.googleusercontent.com/q_V7ApANT57EGPkG8Jl6YJEXa1YjzKeS0IeDvC8V3aiuHMRTPRNkuVfu5oGvZhQ5jw=w240-h480-rw) |
 |Pick Up - بيك أب             | Cargo management with inventory, real-time tracking & notifications | Flutter • Dart • Provider • Firebase • Laravel • Google Maps • PayPal • FCM | 50+      | [Android](https://play.google.com/store/apps/details?id=com.ivalley.userpickup) [iOS](https://apps.apple.com/us/app/pick-up-%D8%A8%D9%8A%D9%83-%D8%A3%D8%A8/id6736680358) | ![Pick Up](https://play-lh.googleusercontent.com/q9wNxxVqPBICIgpo3ZSIkkzpv1ymGIMd0AZcxOppR1Ya4n09H_atV-AN5qNGhzX1bj910i9wszCyzWZ9JJuxq4w=w240-h480-rw) |
-| **Specialty E-Commerce (Gold/Jewelry)** | FineGold - فاين جولد       | Gold shopping app with real-time prices, jewelry/bars/coins | Flutter • Dart • Bloc • Rest API • Firebase • Google Maps | 1K+      | [Android](https://play.google.com/store/apps/details?id=com.finegold) [iOS](https://apps.apple.com/us/app/finegold-%D9%81%D8%A7%D9%8A%D9%86-%D8%AC%D9%88%D9%84%D8%AF/id6451441121) | ![FineGold](https://play-lh.googleusercontent.com/qBck1spfJtGFH81tfgeaWyWFr9jK4ABBpNGsQQhmkfamMYDnGHDP53kta_x8dYn8DGE=w240-h480-rw) |
+|FineGold - فاين جولد       | Gold shopping app with real-time prices, jewelry/bars/coins | Flutter • Dart • Bloc • Rest API • Firebase • Google Maps | 1K+      | [Android](https://play.google.com/store/apps/details?id=com.finegold) [iOS](https://apps.apple.com/us/app/finegold-%D9%81%D8%A7%D9%8A%D9%86-%D8%AC%D9%88%D9%84%D8%AF/id6451441121) | ![FineGold](https://play-lh.googleusercontent.com/qBck1spfJtGFH81tfgeaWyWFr9jK4ABBpNGsQQhmkfamMYDnGHDP53kta_x8dYn8DGE=w240-h480-rw) |
 
 > **Pro Highlights**: Zero production crashes, 60%+ performance boosts via optimizations, full offline support, payment gateways (PayPal/Stripe), multi-role systems. Repos private (NDA), but demos/code samples available!  
 > Portfolio: [mohamedelmohamedy7.github.io](https://mohamedelmohamedy7.github.io/#/)[mohamedelmohamedy7.github.io](https://mohamedelmohamedy7.github.io/#/)
