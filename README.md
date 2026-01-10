@@ -172,6 +172,6 @@ Here's **one standout project per category** – all cross-platform (Android/iOS
 |FineGold - فاين جولد       | Gold shopping app with real-time prices, jewelry/bars/coins | Flutter • Dart • Bloc • Rest API • Firebase • Google Maps | 1K+      | [Android](https://play.google.com/store/apps/details?id=com.finegold) [iOS](https://apps.apple.com/us/app/finegold-%D9%81%D8%A7%D9%8A%D9%86-%D8%AC%D9%88%D9%84%D8%AF/id6451441121) | ![FineGold](https://play-lh.googleusercontent.com/qBck1spfJtGFH81tfgeaWyWFr9jK4ABBpNGsQQhmkfamMYDnGHDP53kta_x8dYn8DGE=w240-h480-rw) |
 
 > **Pro Highlights**: Zero production crashes, 60%+ performance boosts via optimizations, full offline support, payment gateways (PayPal/Stripe), multi-role systems. Repos private (NDA), but demos/code samples available!  
-> Portfolio: [mohamedelmohamedy7.github.io](https://mohamedelmohamedy7.github.io/#/)[mohamedelmohamedy7.github.io](https://mohamedelmohamedy7.github.io/#/)
+> Portfolio: https://cutt.ly/1wvpPd2q
 
 
