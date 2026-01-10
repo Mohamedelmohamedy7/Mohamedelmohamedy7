@@ -124,7 +124,7 @@ class MohamedElMohamedy extends FlutterDeveloper {
 
 ### Connect with me:
 
-p align="center">
+<p align="center">
   <a href="mailto:mo0hamedghynm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
