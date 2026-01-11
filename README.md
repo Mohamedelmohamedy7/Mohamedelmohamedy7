@@ -5,7 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Senior+Flutter+Developer;5%2B+Years+of+Experience;Mobile+App+Specialist;Clean+Architecture+Advocate;Passionate+about+Pixel-Perfect+UI&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=58A6FF&vCenter=true" alt="Typing SVG" />
 </p>
 
- 
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedelmohamedy&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
+</p>
+
 
 <!-- Social Badges -->
 <p align="center">
